@@ -8,7 +8,8 @@ form {
   margin-bottom: 1rem;
 }
 
-label, input {
+label,
+input {
   display: block;
   width: 100%;
 }
@@ -25,12 +26,12 @@ input {
 
 input:focus {
   outline: none;
-  border-color: #50005a;
+  border-color: #39580e;
 }
 
 button {
-  background: #50005a;
-  border: 1px solid #50005a;
+  background: #39580e;
+  border: 1px solid #39580e;
   color: white;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
@@ -42,6 +43,6 @@ button:focus {
 
 button:hover,
 button:active {
-  background: #6a0a77;
-  border-color: #6a0a77;
+  background: #72b01d;
+  border-color: #72b01d;
 }
